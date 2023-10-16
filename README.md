@@ -1,4 +1,4 @@
-![image](https://github.com/AbhijeetKrMishra2/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/assets/139151966/66a0e321-25f8-400a-8d7a-992ea9b2330f)# Login-Registration-System-using-HTML-CSS-JAVASCRIPT
+# Login-Registration-System-using-HTML-CSS-JAVASCRIPT
 
 # Hosted-Website Link :- https://abhijeetkrmishra2.github.io/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/#
 
