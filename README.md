@@ -1,4 +1,4 @@
-# Login-Registration-System-using-HTML-CSS-JAVASCRIPT
+# Login-Registration System using HTML, CSS, & JAVASCRIPT
 
 # Hosted-Website Link :- https://abhijeetkrmishra2.github.io/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/#
 
