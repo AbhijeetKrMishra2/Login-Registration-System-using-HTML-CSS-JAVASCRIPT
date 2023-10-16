@@ -1,0 +1,42 @@
+# Login-Registration-System-using-HTML-CSS-JAVASCRIPT
+
+This is a simple HTML, CSS, and JavaScript project that implements a login and registration system. Users can switch between the login and registration forms and also toggle password visibility. Below, you'll find a README file for your project.
+
+# Project Overview
+This project consists of three main files: index.html, style.css, and script.js. It provides a basic web interface for user authentication.
+
+## Files
+# index.html
+The HTML file is responsible for the structure of the web page and contains both the login and registration forms.
+
+# style.css
+The CSS file provides styling to create an appealing and user-friendly interface for the login and registration forms.
+
+# script.js
+The JavaScript file adds functionality to the project. It allows users to toggle password visibility and switch between the login and registration forms.
+
+# How to Use
+Open the index.html file in a web browser to use the login and registration system.
+
+To toggle password visibility, click on the eye icon next to the password fields.
+
+To switch between the login and registration forms, click the "Signup Now" or "Login Now" links as appropriate.
+
+# Styling and Design
+The project uses the Poppins font family and a blue color scheme. The interface provides an elegant and responsive design suitable for login and registration purposes.
+
+# Dependencies
+The project uses the Unicons library for icons.
+
+# Additional Customization
+You can further customize the project by modifying the HTML, CSS, and JavaScript files to meet your specific requirements.
+
+Feel free to enhance and expand upon this project to create a more comprehensive login and registration system.
+
+# Author
+This project was created by [Your Name].
+
+# License
+This project is open-source and available under the MIT License.
+
+Feel free to use, modify, and share it as needed.
