@@ -1,4 +1,6 @@
-# Login-Registration-System-using-HTML-CSS-JAVASCRIPT
+![image](https://github.com/AbhijeetKrMishra2/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/assets/139151966/66a0e321-25f8-400a-8d7a-992ea9b2330f)# Login-Registration-System-using-HTML-CSS-JAVASCRIPT
+
+# Hosted-Website Link :- https://abhijeetkrmishra2.github.io/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/#
 
 This is a simple HTML, CSS, and JavaScript project that implements a login and registration system. Users can switch between the login and registration forms and also toggle password visibility. Below, you'll find a README file for your project.
 
@@ -28,15 +30,17 @@ The project uses the Poppins font family and a blue color scheme. The interface 
 # Dependencies
 The project uses the Unicons library for icons.
 
-# Additional Customization
-You can further customize the project by modifying the HTML, CSS, and JavaScript files to meet your specific requirements.
-
-Feel free to enhance and expand upon this project to create a more comprehensive login and registration system.
-
 # Author
-This project was created by [Your Name].
+This project was created by Abhijeet Kumar Mishra.
+
+# Screenshots
+![image](https://github.com/AbhijeetKrMishra2/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/assets/139151966/ab8f23f1-68d5-40c6-bf43-073247429d7e)
+
+![image](https://github.com/AbhijeetKrMishra2/Login-Registration-System-using-HTML-CSS-JAVASCRIPT/assets/139151966/5735502d-e2f9-4522-80a5-12b52cba2c95)
+
 
 # License
 This project is open-source and available under the MIT License.
 
 Feel free to use, modify, and share it as needed.
+
